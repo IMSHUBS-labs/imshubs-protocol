@@ -28,10 +28,10 @@ This repository will soon contain:
 
 ## 📚 Resources
 
-*   **Website & Demo:** [https://imshubs.vercel.app]([https://imshubs.vercel.app](https://imshubs.vercel.app))
+*   **Website & Demo:**[Visit IMSHUBS]([Open Website](https://imshubs.vercel.app)
 *   **Litepaper:** [Read our Litepaper]([Link to your Google Doc or PDF](https://drive.google.com/file/d/1pyXR69KeAlew_pcmrCB5sBZnzpoNNTco/view?usp=sharing)) 
 *   **Discord Community:** [Join the Discussion](https://discord.gg/UQkSV7xhTT)
-*   **Twitter:** [Follow us for announcements](Coming_Soon.)
+*   **Twitter:** [Follow us for announcements](Coming_Soon..)
 
 ## 👥 Contributing
 
