@@ -83,11 +83,22 @@ We're actively recruiting a **Lead Solidity Developer** to join our core team. I
 
 ## 🎯 Roadmap
 
-**Q2 2024** - Core team formation & architecture finalization  
-**Q3 2024** - Testnet MVP with reputation and escrow functionality  
-**Q4 2024** - Mainnet launch on L2 with security audits  
-**Q1 2025** - Begin Arweave integration (Phase 2)  
-**Q2 2025** - Cross-chain expansion and ecosystem growth
+**PHASE 1** - Core team formation & architecture finalization  
+            - Testnet MVP with reputation and escrow functionality  
+**PHASE 2** - Mainnet launch on L2 with security audits
+            - First marketplace integrations 
+            - Begin Arweave integration (Phase 2)  
+            - Reputation system live with early users
+**PHASE 3** - Cross-chain expansion and ecosystem growth
+            - Arweave-powered reputation graph (V2)
+            - DAO governenace implementation
+            - Token economics and distribution
+**PHASE 4** - Scale & Expansion
+            - Multi-chain deployment
+            - Advanced dispute resolution systems
+            - Enterprise- grade features
+            - Full decentralization transition
+
 
 ## 📄 License
 
