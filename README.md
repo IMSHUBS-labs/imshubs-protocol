@@ -1,6 +1,12 @@
 # IMSHUBS Protocol
 
+![Status](https://img.shields.io/badge/Status-Orange_DAO_Applied-blue)
+![Version](https://img.shields.io/badge/Version-Architecture_%2B_Prototype-green)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+
+
 A decentralized, non-custodial protocol for sovereign commerce. IMSHUBS provides the foundational smart contracts for escrow, reputation, and identity, enabling anyone to build trustless, peer-to-peer marketplaces.
+
 
 ## 🎯 Vision: Two-Phase Trust Infrastructure
 
