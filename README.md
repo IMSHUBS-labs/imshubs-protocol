@@ -4,7 +4,7 @@
 ![Version](https://img.shields.io/badge/Version-Architecture_%2B_Prototype-green)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 
-*🚀 Applied to Orange DAO Fellowship (Winter 2026)*
+**🚀 Status: Applied to Orange DAO Fellowship (Winter 2026)**
 
 A decentralized, non-custodial protocol for sovereign commerce. IMSHUBS provides the foundational smart contracts for escrow, reputation, and identity, enabling anyone to build trustless, peer-to-peer marketplaces.
 
